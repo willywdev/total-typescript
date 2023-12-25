@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "allowJs": false,
+    "target": "ES6",
+    "module": "ESNext",
+    "noImplicitReturns": true,
+    "noImplicitAny": true
+  },
+  "include": ["*/*.ts", "1-type-annotations-basics/*.ts"]
+}
