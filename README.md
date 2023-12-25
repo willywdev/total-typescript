@@ -1,6 +1,6 @@
 # Total TypeScript 📘
 
-![Total TypeScript Logo](insert_image_url_here)
+![Total TypeScript Logo](assets/total-typescript.webp)
 
 Welcome to the Total TypeScript learning repository! This resource is designed to accompany your journey through [Total TypeScript](https://www.totaltypescript.com/), offering supplementary materials, code examples, and more to enhance your learning experience.
 
