@@ -7,3 +7,9 @@ function greet(name: string): string {
   name.toUpperCase();
   return `Hello ${name}`;
 }
+
+const doSomething = (person: string, age: number, isFunny: boolean): void => {
+  console.log(
+    `Hello ${person}, you are ${age} years old and you are funny: ${isFunny}`
+  );
+};
