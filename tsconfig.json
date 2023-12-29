@@ -3,7 +3,7 @@
     "outDir": "./dist/",
     "allowJs": false,
     "target": "ES6",
-    "module": "ESNext",
+    "module": "ES6",
     "noImplicitReturns": true,
     "noImplicitAny": true
   },
